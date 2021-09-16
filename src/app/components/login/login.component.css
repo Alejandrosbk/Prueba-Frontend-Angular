@@ -1,0 +1,30 @@
+.flex__container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+.title__login {
+    color: #424242;
+    font-family: Arial, sans-serif;
+    margin: 12px 0 12px 0;
+}
+
+.btn__login {
+    font-family: "Google Sans Regular";
+    background-color: #5EA9FF;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 0 10px 0;
+    min-width: 240px;
+    border-radius: 6px;
+    margin: 12px 0 12px 0;
+    border-color: rgba(0, 0, 0, 0);
+    outline: none;
+}
