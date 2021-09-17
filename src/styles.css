@@ -17,3 +17,9 @@
     url("assets/fonts/google-sans-medium/google-sans-medium.woff") format("woff"), /* chrome、firefox */
     url("assets/fonts/google-sans-medium/google-sans-medium.ttf") format("truetype"); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
 }
+@font-face {font-family: "Roboto";
+    src: url("assets/fonts/roboto/Roboto.otf"); /* IE9*/
+    src: url("assets/fonts/roboto/Roboto.woff2") format("woff2"), /* chrome、firefox */
+    url("assets/fonts/roboto/Roboto.woff") format("woff"), /* chrome、firefox */
+    url("assets/fonts/roboto/Roboto.ttf") format("truetype"); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+}
