@@ -26,7 +26,8 @@ import { PorTiempoLimitadoComponent } from './components/productos/por-tiempo-li
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [CookieService],
+  providers: [
+    CookieService],
   
   bootstrap: [AppComponent]
 })
